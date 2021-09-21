@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-collapse": "/uni_modules/uni-collapse/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/uni_modules/uni-collapse/components/uni-collapse-item/uni-collapse-item",
+    "my-icon": "/components/myIcon",
+    "uni-load-more": "/components/uni-load-more"
+  }
+}

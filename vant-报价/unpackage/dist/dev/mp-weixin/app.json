@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/seeoffer/seeoffer"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "数码回收报价",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#F6C73A",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabBar/home.png",
+        "selectedIconPath": "static/tabBar/home-on.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/tabBar/user.png",
+        "selectedIconPath": "static/tabBar/user-on.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-col": "/wxcomponents/vant/dist/col/index",
+    "van-row": "/wxcomponents/vant/dist/row/index",
+    "van-tab": "/wxcomponents/vant/dist/tab/index",
+    "van-tabs": "/wxcomponents/vant/dist/tabs/index",
+    "van-grid": "/wxcomponents/vant/dist/grid/index",
+    "van-grid-item": "/wxcomponents/vant/dist/grid-item/index",
+    "van-nav-bar": "/wxcomponents/vant/dist/nav-bar/index",
+    "van-tag": "/wxcomponents/vant/dist/tag/index",
+    "van-overlay ": "/wxcomponents/vant/dist/overlay/index",
+    "van-collapse": "/wxcomponents/vant/dist/collapse/index",
+    "van-collapse-item": "/wxcomponents/vant/dist/collapse-item/index",
+    "van-icon": "/wxcomponents/vant/dist/icon/index",
+    "van-sticky": "/wxcomponents/vant/dist/sticky/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

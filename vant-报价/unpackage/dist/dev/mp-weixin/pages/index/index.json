@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "数码回收报价",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-col": "/wxcomponents/vant/dist/col/index",
+    "van-row": "/wxcomponents/vant/dist/row/index",
+    "van-tab": "/wxcomponents/vant/dist/tab/index",
+    "van-tabs": "/wxcomponents/vant/dist/tabs/index",
+    "van-grid": "/wxcomponents/vant/dist/grid/index",
+    "van-grid-item": "/wxcomponents/vant/dist/grid-item/index",
+    "van-overlay ": "/wxcomponents/vant/dist/overlay/index",
+    "van-nav-bar": "/wxcomponents/vant/dist/nav-bar/index"
+  }
+}
