@@ -1,4 +1,4 @@
-const domain = "https://www.hsxbk.top";
+const domain = "https://m.hsxbk.top";
 const interfaces = {
 	// 首页一级菜单数据
 	getMailList : domain +"/api/index/typecategory.php",
