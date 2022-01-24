@@ -51,8 +51,7 @@
 }
 .van-hairline--bottom:after, .van-hairline--left:after, .van-hairline--right:after, .van-hairline--surround:after, .van-hairline--top-bottom:after, .van-hairline--top:after, .van-hairline:after {
   position: absolute;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   -webkit-transform-origin: center;
           transform-origin: center;
   content: " ";

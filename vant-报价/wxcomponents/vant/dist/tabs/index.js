@@ -93,7 +93,7 @@ VantComponent({
     container: null,
     skipTransition: true,
     scrollWithAnimation: false,
-    lineOffsetLeft: 0,
+    lineOffsetLeft: 30,
   },
   mounted() {
     requestAnimationFrame(() => {

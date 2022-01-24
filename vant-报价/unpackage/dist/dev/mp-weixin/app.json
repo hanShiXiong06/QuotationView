@@ -1,8 +1,7 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/user/user",
-    "pages/seeoffer/seeoffer"
+    "pages/user/user"
   ],
   "subPackages": [],
   "window": {
@@ -45,7 +44,7 @@
     "van-collapse": "/wxcomponents/vant/dist/collapse/index",
     "van-collapse-item": "/wxcomponents/vant/dist/collapse-item/index",
     "van-icon": "/wxcomponents/vant/dist/icon/index",
-    "van-sticky": "/wxcomponents/vant/dist/sticky/index"
-  },
-  "sitemapLocation": "sitemap.json"
+    "van-sticky": "/wxcomponents/vant/dist/sticky/index",
+    "van-notice-bar": "/wxcomponents/vant/dist/notice-bar/index"
+  }
 }
